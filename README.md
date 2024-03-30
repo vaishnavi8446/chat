@@ -1,6 +1,6 @@
 # Chat Application 
 
-  This is a simple chat bot built using Socket.IO, NodeJS, ExpressJS and MongoDB that allows users to communicate in real-time.
+  This is a simple chat application built using Socket.IO, NodeJS, ExpressJS and MongoDB that allows users to communicate in real-time.
 
 ## Getting Started
 
